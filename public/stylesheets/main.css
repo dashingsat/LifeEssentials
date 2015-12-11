@@ -1,0 +1,52 @@
+.landing-const{
+   margin-left: 10%;
+   margin-right:10%
+}
+
+.dn-header{
+   margin-left :15%
+}
+
+.dn-promotion{
+   margin-top: 15%;
+   margin-left: 20%;
+}
+
+.navbar-nav > li{
+   margin-left:10px;
+   margin-right:10px;
+   padding-left:10px;
+   padding-right:10px;
+}
+
+.navbar-right > li {
+   margin-left:10px;
+   margin-right:10px;
+   padding-left:10px;
+   padding-right:10px;
+}
+
+.dn-footer{
+   margin-left:35%;
+   margin-right:50px;
+   padding-left:50px;
+   padding-right:50px;
+}
+
+.Landing-Product{
+
+   width : 300px;
+   height : 100px;
+   border: 2px double dodgerblue;
+   margin-left: 22%;
+   margin-top:100px;
+}
+
+.Product-Name{
+  margin:auto;
+}
+
+body{
+ margin:0 ;
+  padding :0 ;
+}
